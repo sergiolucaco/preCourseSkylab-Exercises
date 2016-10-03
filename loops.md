@@ -1,6 +1,6 @@
 ### _Pre-Course Exercises_
 ###### **SKYLAB CODERS ACADEMY BOOTCAMP**_(Autumn 2016)_
-![SKYLAB ICON](https://camo.githubusercontent.com/7b3a7c3e9cdafad0258e05bbfd5b9d2ca38ba912/687474703a2f2f7777772e736b796c6162636f646572732e636f6d2f696d616765732f3430332f64656661756c742e706e67)
+[![SKYLAB ICON](https://camo.githubusercontent.com/7b3a7c3e9cdafad0258e05bbfd5b9d2ca38ba912/687474703a2f2f7777772e736b796c6162636f646572732e636f6d2f696d616765732f3430332f64656661756c742e706e67)](http://www.skylabcoders.com/es/)
 ### **_2.Loops_**
 **_a) We want to do a counter, from 0 to 5._**
 
